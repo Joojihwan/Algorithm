@@ -1,4 +1,4 @@
-Algorithm Class 과제
+Algorithm Class 과제 (작성 중)
 
   - Chained_Matrix_Multi.cpp
     - 이 과제는 연속된 행렬 곱 계산 수행 시 최소 계산 횟수의 순서를 찾는 코드이다.
